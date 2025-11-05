@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Gustavo!
 
-<!--
-**Gustavo14nico/Gustavo14nico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Apaixonado por programação em C, JavaScript e Node.js  
+🚀 Em busca de aprendizado constante e novos desafios  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tecnologias que uso:
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub:
+![Pedro GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuUsuario&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuUsuario&layout=compact&theme=radical)
+
+---
+
+## ✉️ Como falar comigo:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/gustavo-de-assis-06581928a)
+[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](gustavodeassis38@gmail.com)
