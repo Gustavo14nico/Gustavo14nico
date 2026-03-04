@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Gustavo!
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Apaixonado por programação em C, JavaScript e Node.js  
+💻 Apaixonado por programação em C, JavaScript e C#  
 🚀 Em busca de aprendizado constante e novos desafios  
 
 ---
